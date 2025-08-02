@@ -7,13 +7,13 @@
 <div align="center">
 
 ### 👋 Hello, I'm **Adel Mohsen**
-#### 💻 IT Student | 💡 Developer | 🌍 Based in Saudi Arabia
+#### 💻 IT Student | 💡 Developer | 🌍 Based in Yemen
 
 ---
 
 🎓 **2nd year IT Student**  
 🌙 Coding by night, learning every day  
-📚 Passionate about: `C++`, `Web Development`, and `App Development`
+📚 Passionate about: `C++`, `C#`, `Web Development`, and `App Development`
 
 🎧 Vibing to:  
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
@@ -30,7 +30,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently learning **C++, Flutter, and Web Development**
+- 🔭 I’m currently learning **C++, C#, Flutter, and Web Development**
 - 🐧 Exploring the world of **GNU/Linux**
 - 🎮 I love tech, movies, and PC building
 - 💬 Ask me about anything related to coding or IT
